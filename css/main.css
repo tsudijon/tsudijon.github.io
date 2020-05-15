@@ -19,6 +19,17 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+img {
+    padding: 5px;
+    width: 150px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
 h1 {
 
     margin-right: 200px;
