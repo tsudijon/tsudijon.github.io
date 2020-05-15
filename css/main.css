@@ -14,17 +14,21 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
+
+    margin-right: 150px;
+    margin-left: 150px;
     font-size: 1.0em;
     font-weight: bold;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 p {
+    margin-right: 150px;
+    margin-left: 150px;
     font-size: 1.0em;
     color: #333;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
