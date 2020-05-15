@@ -22,7 +22,7 @@ a:hover {
 
 img {
     padding: 5px;
-    width: 150px;
+    width: 200px;
 }
 
 img.center {
@@ -51,8 +51,15 @@ hr {
     margin-left: 200px;
 }
 footer {
+    margin-right: 200px;
+    margin-left: 200px;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+}
+
+head{
+    margin-right: 200px;
+    margin-left: 200px;
 }
 
 ul.posts { 
