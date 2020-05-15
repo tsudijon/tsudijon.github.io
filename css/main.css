@@ -25,9 +25,14 @@ a:hover {
     text-decoration: underline;
 }
 
-img {
+img [src*="blueno"]{
     padding: 5px;
     width: 200px;
+}
+
+img [src*="singapore"] {
+    max-width: 100%;
+    height: auto;
 }
 
 img.center {
