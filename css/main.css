@@ -50,6 +50,12 @@ hr {
     margin-right: 200px;
     margin-left: 200px;
 }
+
+body {
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
 footer {
     margin-right: 200px;
     margin-left: 200px;
@@ -62,9 +68,15 @@ head{
     margin-left: 200px;
 }
 
+ul {
+    width: 70%;
+    margin: auto;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    
 }
 
 ul.posts li {
