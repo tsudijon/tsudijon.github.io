@@ -83,8 +83,7 @@ ul {
 }
 
 ol {
-    margin-right: 200px;
-    margin-left: 200px; 
+    padding: 200px;
     font-size: 0.8em;
 }
 
