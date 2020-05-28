@@ -10,16 +10,17 @@ nav ul, footer ul {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
     padding: 0px;
     list-style: none;
-    margin: 0 auto;
-
+    margin-right: 200px;
+    margin-left: 200px;
 }
 nav ul li, footer ul li {
     display: inline;
+    margin: 0 auto;
 }
 
 a {
     text-decoration: none;
-    color: #AED6F1 ;
+    color: #BED6F1 ;
 }
 a:hover {
     text-decoration: underline;
@@ -50,26 +51,37 @@ h1 {
 p {
     margin-right: 200px;
     margin-left: 200px;
-    font-size: 0.8em;
+    font-size:0.9em;
     color: #333;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-hr {
+
+body, hr {
     margin-right: 200px;
     margin-left: 200px;
+    font-size: 0.9em;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
-body {
-    margin-right: 200px;
+ol li {
+    padding-left: 5px;
+    margin: 15px 0;
+}
+
+ol {
     margin-left: 200px;
+    margin-right:200px;
+    font-size: 0.9em;
+    color: #333;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 footer {
     margin-right: 200px;
     margin-left: 200px;
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .9em;
 }
 
 head{
@@ -85,10 +97,13 @@ ul {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.0em;
     
 }
 
 ul.posts li {
     list-style: none;
+    font-size: 0.9em;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin: 15px 0;
 }
