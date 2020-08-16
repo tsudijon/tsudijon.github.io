@@ -4,7 +4,7 @@
 	<title>TS Blog</title>
 	<link href="http://tsudijon.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://tsudijon.github.io/blog"/>
-	<updated>2020-08-15T22:34:43-04:00</updated>
+	<updated>2020-08-15T23:16:52-04:00</updated>
 	<id>http://tsudijon.github.io/blog</id>
 	<author>
 		<name>tsudijon</name>
@@ -138,7 +138,9 @@ Goal is to convey theoretical guarantees and intuition on when these algorithms 
 &lt;p&gt;RATE&lt;/p&gt;
 
 &lt;h3 id=&quot;variable-selection-via-gradient-function-variation&quot;&gt;Variable Selection via Gradient Function variation&lt;/h3&gt;
-&lt;p&gt;Jeremiah Zhe Liu’s paper, and the JLMR 2016 paper that it considers as well.&lt;/p&gt;
+&lt;p&gt;Jeremiah Zhe Liu’s paper, and the JLMR 2016 paper that it considers as well. These ideas define the variable importance via the &lt;em&gt;Empirical Norm of the Gradient Function,&lt;/em&gt;&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\psi_p(f) = || \frac{\partial f}{\partial x_p}||_n^2&lt;/script&gt;
 
 &lt;h3 id=&quot;motivations&quot;&gt;Motivations&lt;/h3&gt;
 
