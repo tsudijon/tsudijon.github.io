@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 	<html>
 		<head>
+
+			<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+			<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+			<link rel="manifest" href="/images/favicon/site.webmanifest">
+			<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+			<meta name="msapplication-TileColor" content="#da532c">
+			<meta name="theme-color" content="#ffffff">
+
+			
 			<title>Variable Selection I: Overview</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -40,14 +50,18 @@ Goal is to convey theoretical guarantees and intuition on when these algorithms 
 
 <h2 id="overview">Overview</h2>
 
-<h3 id="search">Search</h3>
+<h3 id="variable-selection-via-search">Variable Selection via Search</h3>
 
-<p>Perhaps the first types of model selection or feature selection algorithms that are proposed are <em>search</em> algorithms, which consider various combinations of the predictor variables</p>
+<p>Perhaps the first types of model selection or feature selection algorithms that are proposed are <em>search</em> algorithms, which consider various combinations of the predictor variables. These subsets can be selected via brute force subset selection, or via simplified forward and backward subset selection.</p>
+
+<p>We can measure the goodness of the subsets via the following measures:</p>
 <ul>
-  <li>subset selection, forward / backward, rated via criteria such as AIC / BIC, Mallow <script type="math/tex">C_p,</script> adjusted <script type="math/tex">R^2.</script></li>
+  <li>Akaike Information Criterion (AIC), Bayesian Information Criterion (BIC),</li>
+  <li>Mallow <script type="math/tex">C_p,</script></li>
+  <li>Adjusted <script type="math/tex">R^2.</script></li>
 </ul>
 
-<h3 id="optimization">Optimization</h3>
+<h3 id="variable-selection-via-optimization">Variable Selection via Optimization</h3>
 
 <p>However, most of those procedures are too expensive to be run on high dimensional problems. There have been many more computationally attractive alternatives that have been proposed, the most prominent of which you’ve likely heard of, called the <em>LASSO</em> procedure.</p>
 
@@ -57,22 +71,33 @@ Goal is to convey theoretical guarantees and intuition on when these algorithms 
 
 <p>There are many similar variants of this. Luckily there’s a theory that covers all of these cases, under the term <strong><script type="math/tex">M</script>-estimators.</strong></p>
 
-<h3 id="feature-centrality">Feature Centrality</h3>
+<p>We’ll cover:</p>
 
-<p>Knockoffs</p>
+<ul>
+  <li>Lasso</li>
+  <li>Group Lasso</li>
+  <li>General <script type="math/tex">M</script>-estimators</li>
+</ul>
 
-<p>RATE</p>
+<h3 id="variable-selection-via-distributional-properties">Variable Selection via Distributional Properties</h3>
 
-<h3 id="variable-selection-via-gradient-function-variation">Variable Selection via Gradient Function variation</h3>
+<ul>
+  <li>RATE: Variable Selection via Relative Centrality. Selects importance of variables via change in distribution omitting that variable, as measured using the Kullback-Leibler divergence.</li>
+  <li>Knockoffs: Variable Selection using simulated ‘knockoff’ variables, with theoretical guarantees on False Discovery Rate.</li>
+</ul>
+
+<h3 id="variable-selection-via-loss-function-variation">Variable Selection via Loss Function Variation</h3>
 <p>Jeremiah Zhe Liu’s paper, and the JLMR 2016 paper that it considers as well. These ideas define the variable importance via the <em>Empirical Norm of the Gradient Function,</em></p>
 
 <script type="math/tex; mode=display">\psi_p(f) = || \frac{\partial f}{\partial x_p}||_n^2</script>
 
-<h3 id="motivations">Motivations</h3>
+<p>This is also similar to the idea used in analyzing convnets (alongside occlusion methods, etc. ) – I recall we had a similar idea like this.</p>
+
+<h2 id="motivations">Motivations</h2>
 
 <p>The interest in this project began during my experiences working with <a href="https://github.com/lcrawlab">Lorin Crawford</a> at Brown University, where we worked on applying feature selection methods for black box models and its application to shape analysis. I hope to cover this procedure, called <em>RATE</em>, in a future post. The end result is a pipeline we named SINATRA, which combines the use of informative topological transforms, and Bayesian models + RATE to study differentiating features in classes of shapes. We’ll give more details later on :)</p>
 
-<p>My hope is to</p>
+<p>My hope is to give some understanding behind the theoretical guarantees (if explored) for these different broad groups of methodologies, as well as give some small experiments to see under which circumstances each method works best.</p>
 
 
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
@@ -83,8 +108,15 @@ Goal is to convey theoretical guarantees and intuition on when these algorithms 
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
-	        		<li><a href="mailto:timothysudijono@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/tsudijon">github.com/tsudijon</a></li>
+	        		<li><a href="mailto:timothysudijono@gmail.com">
+						<img src = /images/grey_gmail_ico.png width="18" height="18"></img>
+					</a></li>
+					<li><a href="https://github.com/tsudijon">
+						<img src = /images/grey_github_ico.png width="18" height="18"></img>
+						</a></li>
+	        		<li><a href="https://www.linkedin.com/in/timothy-sudijono-621236101/">
+						<img src = /images/grey_linkedin_ico.png width="18" height="18"></img>
+					</a></li>
 				</ul>
 			</footer>
 		</body>

@@ -78,7 +78,7 @@ ol, ul {
     color: #333;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
-
+ 
 footer {
     margin-right: 200px;
     margin-left: 200px;
@@ -86,14 +86,22 @@ footer {
     font-size: .9em;
 }
 
+footer ul {
+    text-align: center;
+}
+
+footer ul li {
+    padding: 0px 10px;
+}
+
 head{
     margin-right: 200px;
-    margin-left: 200px;
 }
 
 
 div.post {
-    margin-right: 200px
+    margin-right: 200px;
+    margin-right: 0px;
 }
 
 
