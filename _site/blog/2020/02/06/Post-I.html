@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Variable Selection I: Overview</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="\">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			<h1>
+Variable Selection I: Overview
+</h1>
+<p class="meta">06 Feb 2020</p>
+
+<div class="post">
+  
+  <!--- 
+Notes: the purpose of this particular article is to give a lay introduction to feature selection, see where it can be useful, but also organize my personal understanding of these techniques.
+
+Goal is to convey theoretical guarantees and intuition on when these algorithms should and shouldn't work, backed up by  experiments?
+--->
+<h2 id="introduction">Introduction</h2>
+
+<p>In the first project in this blog, I’d like to give an overview of methods in <em>feature selection</em>, a collection of techniques that try to identify collections of variables in a statistical model which are related to the.</p>
+
+<p>Such algorithms are useful for several purposes, a few of which are interpretability and parsimony. For models fit with very large numbers of features (throughout the series we’ll mainly refer to such cases where $p  &gt; n$ to be  high dimensional).</p>
+
+<p>In the biological setting … –polygenic hypothesis / omnigenic hypotheses</p>
+
+<p>Drug / gene testing or discovery in GWAS .. expensive to test all of these options.</p>
+
+<h2 id="overview">Overview</h2>
+
+<h3 id="search">Search</h3>
+
+<p>Perhaps the first types of model selection or feature selection algorithms that are proposed are <em>search</em> algorithms, which consider various combinations of the predictor variables</p>
+<ul>
+  <li>subset selection, forward / backward, rated via criteria such as AIC / BIC, Mallow <script type="math/tex">C_p,</script> adjusted <script type="math/tex">R^2.</script></li>
+</ul>
+
+<h3 id="optimization">Optimization</h3>
+
+<p>However, most of those procedures are too expensive to be run on high dimensional problems. There have been many more computationally attractive alternatives that have been proposed, the most prominent of which you’ve likely heard of, called the <em>LASSO</em> procedure.</p>
+
+<script type="math/tex; mode=display">L(\beta) = \frac{1}{2n}||y - \beta X||_2^2 + \lambda||\beta||_1.</script>
+
+<p>The Lasso program seeks to minimize the objective term above; basically using optimization and the behavior of the regularization norm as a stand-in for feature selection.</p>
+
+<p>There are many similar variants of this. Luckily there’s a theory that covers all of these cases, under the term <strong><script type="math/tex">M</script>-estimators.</strong></p>
+
+<h3 id="feature-centrality">Feature Centrality</h3>
+
+<p>Knockoffs</p>
+
+<p>RATE</p>
+
+<h3 id="variable-selection-via-gradient-function-variation">Variable Selection via Gradient Function variation</h3>
+<p>Jeremiah Zhe Liu’s paper, and the JLMR 2016 paper that it considers as well.</p>
+
+<h3 id="motivations">Motivations</h3>
+
+<p>The interest in this project began during my experiences working with <a href="https://github.com/lcrawlab">Lorin Crawford</a> at Brown University, where we worked on applying feature selection methods for black box models and its application to shape analysis. I hope to cover this procedure, called <em>RATE</em>, in a future post. The end result is a pipeline we named SINATRA, which combines the use of informative topological transforms, and Bayesian models + RATE to study differentiating features in classes of shapes. We’ll give more details later on :)</p>
+
+<p>My hope is to</p>
+
+
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+</div>
+
+
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:timothysudijono@gmail.com">email</a></li>
+	        		<li><a href="https://github.com/tsudijon">github.com/tsudijon</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>

@@ -1,0 +1,109 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+
+nav ul, footer ul {
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding: 0px;
+    list-style: none;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #BED6F1 ;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+img[src*="blueno"]{
+    padding: 5px;
+    width: 200px;
+}
+
+img[src*="singapore"] {
+    width: 1000px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 1.0em;
+    font-weight: bold;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+p {
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size:0.9em;
+    color: #333;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+body, hr {
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 0.9em;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+ol li {
+    padding-left: 5px;
+    margin: 15px 0;
+}
+
+ol {
+    margin-left: 200px;
+    margin-right:200px;
+    font-size: 0.9em;
+    color: #333;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+footer {
+    margin-right: 200px;
+    margin-left: 200px;
+    border-top: 1px solid #d5d5d5;
+    font-size: .9em;
+}
+
+head{
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+ul {
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.0em;
+    
+}
+
+ul.posts li {
+    list-style: none;
+    font-size: 0.9em;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin: 15px 0;
+}

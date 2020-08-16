@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>TS Blog</title>
+	<link href="http://tsudijon.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://tsudijon.github.io/blog"/>
+	<updated>2020-08-15T22:27:47-04:00</updated>
+	<id>http://tsudijon.github.io/blog</id>
+	<author>
+		<name>tsudijon</name>
+		<email>timothysudijono@gmail.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Variable Selection IV: Lasso Revisited: Consistency of M-Estimators</title>
+			<link href="http://tsudijon.github.io/blog/2020/06/27/Post-IV"/>
+			<updated>2020-06-27T00:00:00-04:00</updated>
+			<id>http://tsudijon.github.io/blog/2020/06/27/-Post-IV</id>
+			<content type="html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;h3 id=&quot;theoretical-guarantees&quot;&gt;Theoretical Guarantees.&lt;/h3&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wainwright, High Dimensional Statistics.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Variable Selection V: Feature Importance Via Relative Centrality</title>
+			<link href="http://tsudijon.github.io/blog/2020/05/23/Post-V"/>
+			<updated>2020-05-23T00:00:00-04:00</updated>
+			<id>http://tsudijon.github.io/blog/2020/05/23/-Post-V</id>
+			<content type="html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;h3 id=&quot;theoretical-guarantees&quot;&gt;Theoretical Guarantees.&lt;/h3&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wainwright, High Dimensional Statistics.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Variable Selection III: Knockoffs</title>
+			<link href="http://tsudijon.github.io/blog/2020/05/23/Post-III"/>
+			<updated>2020-05-23T00:00:00-04:00</updated>
+			<id>http://tsudijon.github.io/blog/2020/05/23/-Post-III</id>
+			<content type="html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;h3 id=&quot;theoretical-guarantees&quot;&gt;Theoretical Guarantees.&lt;/h3&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wainwright, High Dimensional Statistics.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Variable Selection II: Lasso Theory</title>
+			<link href="http://tsudijon.github.io/blog/2020/05/16/Post-II"/>
+			<updated>2020-05-16T00:00:00-04:00</updated>
+			<id>http://tsudijon.github.io/blog/2020/05/16/-Post-II</id>
+			<content type="html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;In recent&lt;/p&gt;
+
+&lt;h3 id=&quot;theoretical-guarantees&quot;&gt;Theoretical Guarantees.&lt;/h3&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;h3 id=&quot;extensions-to-m-estimators&quot;&gt;Extensions to M-estimators&lt;/h3&gt;
+
+&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wainwright, High Dimensional Statistics.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Variable Selection I: Overview</title>
+			<link href="http://tsudijon.github.io/blog/2020/02/06/Post-I"/>
+			<updated>2020-02-06T00:00:00-05:00</updated>
+			<id>http://tsudijon.github.io/blog/2020/02/06/-Post-I</id>
+			<content type="html">&lt;!--- 
+Notes: the purpose of this particular article is to give a lay introduction to feature selection, see where it can be useful, but also organize my personal understanding of these techniques.
+
+Goal is to convey theoretical guarantees and intuition on when these algorithms should and shouldn't work, backed up by  experiments?
+---&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;In the first project in this blog, I’d like to give an overview of methods in &lt;em&gt;feature selection&lt;/em&gt;, a collection of techniques that try to identify collections of variables in a statistical model which are related to the.&lt;/p&gt;
+
+&lt;p&gt;Such algorithms are useful for several purposes, a few of which are interpretability and parsimony. For models fit with very large numbers of features (throughout the series we’ll mainly refer to such cases where $p  &amp;gt; n$ to be  high dimensional).&lt;/p&gt;
+
+&lt;p&gt;In the biological setting … –polygenic hypothesis / omnigenic hypotheses&lt;/p&gt;
+
+&lt;p&gt;Drug / gene testing or discovery in GWAS .. expensive to test all of these options.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;h3 id=&quot;search&quot;&gt;Search&lt;/h3&gt;
+
+&lt;p&gt;Perhaps the first types of model selection or feature selection algorithms that are proposed are &lt;em&gt;search&lt;/em&gt; algorithms, which consider various combinations of the predictor variables&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;subset selection, forward / backward, rated via criteria such as AIC / BIC, Mallow &lt;script type=&quot;math/tex&quot;&gt;C_p,&lt;/script&gt; adjusted &lt;script type=&quot;math/tex&quot;&gt;R^2.&lt;/script&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;optimization&quot;&gt;Optimization&lt;/h3&gt;
+
+&lt;p&gt;However, most of those procedures are too expensive to be run on high dimensional problems. There have been many more computationally attractive alternatives that have been proposed, the most prominent of which you’ve likely heard of, called the &lt;em&gt;LASSO&lt;/em&gt; procedure.&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;L(\beta) = \frac{1}{2n}||y - \beta X||_2^2 + \lambda||\beta||_1.&lt;/script&gt;
+
+&lt;p&gt;The Lasso program seeks to minimize the objective term above; basically using optimization and the behavior of the regularization norm as a stand-in for feature selection.&lt;/p&gt;
+
+&lt;p&gt;There are many similar variants of this. Luckily there’s a theory that covers all of these cases, under the term &lt;strong&gt;&lt;script type=&quot;math/tex&quot;&gt;M&lt;/script&gt;-estimators.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;feature-centrality&quot;&gt;Feature Centrality&lt;/h3&gt;
+
+&lt;p&gt;Knockoffs&lt;/p&gt;
+
+&lt;p&gt;RATE&lt;/p&gt;
+
+&lt;h3 id=&quot;variable-selection-via-gradient-function-variation&quot;&gt;Variable Selection via Gradient Function variation&lt;/h3&gt;
+&lt;p&gt;Jeremiah Zhe Liu’s paper, and the JLMR 2016 paper that it considers as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;motivations&quot;&gt;Motivations&lt;/h3&gt;
+
+&lt;p&gt;The interest in this project began during my experiences working with &lt;a href=&quot;https://github.com/lcrawlab&quot;&gt;Lorin Crawford&lt;/a&gt; at Brown University, where we worked on applying feature selection methods for black box models and its application to shape analysis. I hope to cover this procedure, called &lt;em&gt;RATE&lt;/em&gt;, in a future post. The end result is a pipeline we named SINATRA, which combines the use of informative topological transforms, and Bayesian models + RATE to study differentiating features in classes of shapes. We’ll give more details later on :)&lt;/p&gt;
+
+&lt;p&gt;My hope is to&lt;/p&gt;
+
+</content>
+		</entry>
+	
+
+</feed>
