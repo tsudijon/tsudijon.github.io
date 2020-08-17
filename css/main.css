@@ -15,7 +15,7 @@ nav ul, footer ul {
 
 
 nav ul li, footer ul li {
-    display: inline;
+    display: inline-flex;
     margin: 0 auto;
     padding: 0px 10px;
 }
