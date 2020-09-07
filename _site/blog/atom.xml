@@ -4,51 +4,13 @@
 	<title>TS Blog</title>
 	<link href="http://tsudijon.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://tsudijon.github.io/blog"/>
-	<updated>2020-09-07T11:40:36-04:00</updated>
+	<updated>2020-09-07T18:35:23-04:00</updated>
 	<id>http://tsudijon.github.io/blog</id>
 	<author>
 		<name>tsudijon</name>
 		<email>timothysudijono@gmail.com</email>
 	</author>
 
-	
-		<entry>
-			<title>Variable Selection IV: Lasso Revisited: Consistency of M-Estimators</title>
-			<link href="http://tsudijon.github.io/blog/2020/06/27/Post-IV"/>
-			<updated>2020-06-27T00:00:00-04:00</updated>
-			<id>http://tsudijon.github.io/blog/2020/06/27/-Post-IV</id>
-			<content type="html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
-
-&lt;h3 id=&quot;theoretical-guarantees&quot;&gt;Theoretical Guarantees.&lt;/h3&gt;
-
-&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Wainwright, High Dimensional Statistics.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-		</entry>
-	
-		<entry>
-			<title>Variable Selection III: Knockoffs</title>
-			<link href="http://tsudijon.github.io/blog/2020/05/23/Post-III"/>
-			<updated>2020-05-23T00:00:00-04:00</updated>
-			<id>http://tsudijon.github.io/blog/2020/05/23/-Post-III</id>
-			<content type="html">&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
-
-&lt;h3 id=&quot;theoretical-guarantees&quot;&gt;Theoretical Guarantees.&lt;/h3&gt;
-
-&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
-
-&lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Wainwright, High Dimensional Statistics.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-		</entry>
 	
 		<entry>
 			<title>Variable Selection III: Feature Importance Via Relative Centrality</title>
