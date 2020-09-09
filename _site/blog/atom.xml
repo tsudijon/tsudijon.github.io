@@ -4,7 +4,7 @@
 	<title>TS Blog</title>
 	<link href="http://tsudijon.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://tsudijon.github.io/blog"/>
-	<updated>2020-09-07T18:35:23-04:00</updated>
+	<updated>2020-09-07T19:05:29-04:00</updated>
 	<id>http://tsudijon.github.io/blog</id>
 	<author>
 		<name>tsudijon</name>
@@ -150,6 +150,15 @@ Goal is to convey theoretical guarantees and intuition on when these algorithms 
 
 &lt;p&gt;My hope is to give some understanding behind the theoretical guarantees (if explored) for these different broad groups of methodologies, as well as give some small experiments to see under which circumstances each method works best.&lt;/p&gt;
 
+</content>
+		</entry>
+	
+		<entry>
+			<title>Learning Optimal Transport I: </title>
+			<link href="http://tsudijon.github.io/blog/2019/11/01/OT-I"/>
+			<updated>2019-11-01T00:00:00-04:00</updated>
+			<id>http://tsudijon.github.io/blog/2019/11/01/-OT-I</id>
+			<content type="html">
 </content>
 		</entry>
 	
