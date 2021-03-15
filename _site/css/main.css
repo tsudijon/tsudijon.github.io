@@ -28,9 +28,10 @@ a:hover {
     text-decoration: underline;
 }
 
-img[src*="blueno"]{
+img[src*="headshot"]{
     padding: 5px;
     width: 200px;
+    border-radius: 50%;
 }
 
 img[src*="singapore"] {
