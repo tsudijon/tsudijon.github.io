@@ -12,12 +12,12 @@ Currently, I work on problems in causal inference, particularly on interference 
 ---
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
-**T. Sudijono**,  L. Lei. \
-Working Paper (2023). Accepted at CODE@MIT 2023. \
-[ [Draft](/files/ltojk_sc.pdf) | [Software](https://github.com/tsudijon) ]
+ L. Lei.\*, **T. Sudijono\***,  \
+Preprint (2024). Accepted at CODE@MIT 2023. \
+[ [ArXiv](https://arxiv.org/abs/2401.07152) | [Software](https://github.com/tsudijon) ]
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
-S. Chatterjee, **T. Sudijono**. Draft available upon request (2023). 
+S. Chatterjee\*, **T. Sudijono\***. Draft available upon request (2023+). 
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
 **T. Sudijono**. \
@@ -34,7 +34,7 @@ B. Wang\*, **T. Sudijono**\*, H. Kirveslahti\*, T. Gao, D. M. Boyer, S. Mukherje
  Annals of Applied Statistics (2021). \
 [ [Journal](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-statistical-pipeline-for-identifying-physical-features-that-differentiate-classes/10.1214/20-AOAS1430.full?tab=ArticleLink) | [BioArXiv](https://www.biorxiv.org/content/10.1101/701391v2) | [Software](https://github.com/lcrawlab/SINATRA) ]
 
-\* denotes co-first author.
+\* denotes equal contribution or alphabetical order.
 
 ## Theses
 

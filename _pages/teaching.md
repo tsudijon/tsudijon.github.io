@@ -15,6 +15,7 @@ author_profile: true
 - Time Series Analysis, Fall 2021
 - Graduate Probability Theory I, Fall 2022
 - Graduate Probability Theory II, Winter 2023
+- Theory of Statistics II, Winter 2024
 
 
 ## Other Experiences
