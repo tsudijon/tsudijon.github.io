@@ -11,13 +11,22 @@ Currently, I work on problems in causal inference, particularly on interference 
 
 ---
 
+**Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
+with L. Lei, L. Masoero, S. Vijaykumar, et al. \
+Work in progress (2024).
+
+**Minimum Description Length Neural Networks Generalize on Low-Complexity Data**.\
+S. Chatterjee\*, **T. Sudijono\***.\ 
+Draft available upon request (2024). 
+
 **Synthetic Control Inference via Refined Placebo Tests**.\
  L. Lei.\*, **T. Sudijono\***,  \
-Preprint (2024). Accepted at CODE@MIT 2023. \
+Preprint (2024). Accepted at CODE@MIT 2023, ACIC 2024. \
 [ [ArXiv](https://arxiv.org/abs/2401.07152) | [Software](https://github.com/tsudijon) ]
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
-S. Chatterjee\*, **T. Sudijono\***. Draft available upon request (2023+). 
+S. Chatterjee\*, **T. Sudijono\***. \
+Draft available upon request (2023+). 
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
 **T. Sudijono**. \
