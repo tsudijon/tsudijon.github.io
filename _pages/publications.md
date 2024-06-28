@@ -16,7 +16,7 @@ with L. Lei, L. Masoero, S. Vijaykumar, et al. \
 Work in progress (2024).
 
 **Minimum Description Length Neural Networks Generalize on Low-Complexity Data**.\
-S. Chatterjee\*, **T. Sudijono\***, \ 
+S. Chatterjee\*, **T. Sudijono\***. \
 Draft available upon request (2024). 
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
