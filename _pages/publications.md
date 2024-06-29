@@ -29,7 +29,7 @@ Draft available upon request (2023+).
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
  L. Lei.\*, **T. Sudijono\***,  \
-Preprint (2024). Accepted at CODE@MIT 2023, ACIC 2024. \
+Submitted (2024). Accepted at CODE@MIT 2023, ACIC 2024. \
 [ [ArXiv](https://arxiv.org/abs/2401.07152) | [Software](https://github.com/tsudijon) ]
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
