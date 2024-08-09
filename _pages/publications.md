@@ -17,7 +17,7 @@ with S. Ejdemyr, A. Lal, M. Tingley. \
 Work in progress (2024).
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
-with L. Lei, L. Masoero, S. Vijaykumar, et al. \
+with L. Lei, L. Masoero, S. Vijaykumar, G. Imbens, J. McQueen. \
 Work in progress (2024).
 
 **Minimum Description Length Neural Networks Generalize on Low-Complexity Data**.\
