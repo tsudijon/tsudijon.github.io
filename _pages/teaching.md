@@ -16,6 +16,7 @@ author_profile: true
 - Graduate Probability Theory I, Fall 2022
 - Graduate Probability Theory II, Winter 2023
 - Theory of Statistics II, Winter 2024
+- Stats 110 (Statistical Methods in Engineering and the Physical Sciences), Fall 2024
 
 
 ## Other Experiences
