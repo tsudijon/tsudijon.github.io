@@ -11,19 +11,18 @@ Currently, I work on problems in causal inference, particularly on interference 
 
 ---
 
-<!---
+
 **Optimizing the Returns to Experimentation Programs**.\
 with S. Ejdemyr, A. Lal, M. Tingley. \
-Work in progress (2024). 
+Draft available upon request (2024). Accepted at CODE@MIT 2024
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
 with L. Lei, L. Masoero, S. Vijaykumar, G. Imbens, J. McQueen. \
-Work in progress (2024). 
+Work in progress (2024). Accepted at CODE@MIT 2024
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
 S. Chatterjee\*, **T. Sudijono\***. \
 Draft available upon request (2024). 
---->
 
 **Neural Networks Generalize on Low Complexity Data**.\
 S. Chatterjee\*, **T. Sudijono\***. \
