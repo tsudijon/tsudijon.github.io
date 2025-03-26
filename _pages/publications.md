@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Currently, I work on problems in causal inference, neural networks, and probability theory.
+Currently, I work on problems in causal inference, empirical Bayes, neural networks, and probability theory.
 
 ## Research
 
@@ -22,7 +22,7 @@ Draft available upon request (2024).
 
 **Optimizing the Returns to Experimentation Programs**.\
 **T. Sudijono**, S. Ejdemyr, A. Lal, M. Tingley. \
-Submitted (2024). Accepted at CODE@MIT 2024 \                                       
+Submitted (2024). Accepted at CODE@MIT 2024. \                                       
 [ [ArXiv](https://arxiv.org/abs/2412.05508) | [Software](https://github.com/tsudijon/OptimizeExperimentPrograms) ]
 
 **Neural Networks Generalize on Low Complexity Data**.\
@@ -37,7 +37,7 @@ Submitted (2024). Accepted at CODE@MIT 2023, ACIC 2024, CalMetrics 2024. \
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
 **T. Sudijono**. \
-Submitted (2023). \
+Accepted, Random Structures & Algorithms (2025). \
 [ [ArXiv](https://arxiv.org/abs/2304.07160) ]
 
 **A Topological Data Analytic Approach for Discovering Biophysical Signatures in Protein Dynamics**.\
