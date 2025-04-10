@@ -27,7 +27,7 @@ Submitted (2024). Accepted at CODE@MIT 2024. \
 
 **Neural Networks Generalize on Low Complexity Data**.\
 S. Chatterjee\*, **T. Sudijono\***. \
-Submitted (2024). \
+Major Revision, Annals of Statistics (2025). \
 [ [ArXiv](https://arxiv.org/abs/2409.12446) ]
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
