@@ -11,14 +11,18 @@ Currently, I work on problems in causal inference, empirical Bayes, neural netwo
 
 ---
 
+**Compound Decisions and Empirical Welfare Maximization: A SURE Approach**.\
+with Lihua Lei, Kevin Chen. \
+Work in progress (2025+).
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
 **T. Sudijono**, L. Lei, L. Masoero, S. Vijaykumar, G. Imbens, J. McQueen. \
-Work in progress (2024). Accepted at CODE@MIT 2024
+Work in progress (2025+). Accepted at CODE@MIT 2024
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
 S. Chatterjee\*, **T. Sudijono\***. \
-Draft available upon request (2024). 
+Submitted (2025). 
+[ [ArXiv]() ]
 
 **Optimizing the Returns to Experimentation Programs**.\
 **T. Sudijono**, S. Ejdemyr, A. Lal, M. Tingley. \
@@ -37,8 +41,8 @@ Submitted (2024). Accepted at CODE@MIT 2023, ACIC 2024, CalMetrics 2024. \
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
 **T. Sudijono**. \
-Accepted, Random Structures & Algorithms (2025). \
-[ [ArXiv](https://arxiv.org/abs/2304.07160) ]
+Random Structures & Algorithms (2025). \
+[ [Journal](https://onlinelibrary.wiley.com/doi/10.1002/rsa.70004) | [ArXiv](https://arxiv.org/abs/2304.07160) ]
 
 **A Topological Data Analytic Approach for Discovering Biophysical Signatures in Protein Dynamics**.\
 W. S. Tang\*, G. M. da Silva\*, H. Kirveslahti, E. Skeens, B. Feng, **T. Sudijono**, K. Yang, S. Mukherjee, B. Rubinstein, L. Crawford. \
