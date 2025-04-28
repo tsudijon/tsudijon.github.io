@@ -21,8 +21,8 @@ Work in progress (2025+). Accepted at CODE@MIT 2024
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
 S. Chatterjee\*, **T. Sudijono\***. \
-Submitted (2025). 
-[ [ArXiv]() ]
+Submitted (2025). \
+[ [ArXiv](https://arxiv.org/abs/2504.18017) ]
 
 **Optimizing the Returns to Experimentation Programs**.\
 **T. Sudijono**, S. Ejdemyr, A. Lal, M. Tingley. \
