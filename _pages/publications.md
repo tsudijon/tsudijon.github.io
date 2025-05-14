@@ -26,7 +26,7 @@ Submitted (2025). \
 
 **Optimizing the Returns to Experimentation Programs**.\
 **T. Sudijono**, S. Ejdemyr, A. Lal, M. Tingley. \
-Submitted (2024). Accepted at CODE@MIT 2024. \
+Submitted (2024). Accepted at ACM EC 2025, CODE@MIT 2024. \
 [ [ArXiv](https://arxiv.org/abs/2412.05508) | [Software](https://github.com/tsudijon/OptimizeExperimentPrograms) ]
 
 **Neural Networks Generalize on Low Complexity Data**.\
