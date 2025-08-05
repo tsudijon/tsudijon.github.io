@@ -12,7 +12,7 @@ Currently, I work on problems in causal inference, empirical Bayes, neural netwo
 ---
 
 **Compound Decisions and Empirical Welfare Maximization: A SURE Approach**.\
-with Lihua Lei, Kevin Chen. \
+with Lihua Lei, Kevin Chen, Liyang Sun, Tian Xie. \
 Work in progress (2025+).
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
@@ -31,7 +31,7 @@ Submitted (2024). Accepted at ACM EC 2025, CODE@MIT 2024. \
 
 **Neural Networks Generalize on Low Complexity Data**.\
 S. Chatterjee\*, **T. Sudijono\***. \
-Major Revision, Annals of Statistics (2025). \
+Accepted, Annals of Statistics (2025). \
 [ [ArXiv](https://arxiv.org/abs/2409.12446) ]
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
