@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-Currently, I work on problems in causal inference, empirical Bayes, neural networks, and probability theory.
+Currently, I work on problems in neural network theory, causal inference, and empirical Bayes.
 
 ## Research
 
 ---
 
-**Compound Decisions and Empirical Welfare Maximization: A SURE Approach**.\
+**Compound Selection Decisions: An Almost SURE Approach**.\
 with Lihua Lei, Kevin Chen, Liyang Sun, Tian Xie. \
 Work in progress (2025+).
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
 **T. Sudijono**, L. Lei, L. Masoero, S. Vijaykumar, G. Imbens, J. McQueen. \
-Work in progress (2025+). Accepted at CODE@MIT 2024
+Work in progress (2025+).
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
 S. Chatterjee\*, **T. Sudijono\***. \
@@ -26,7 +26,7 @@ Submitted (2025). \
 
 **Optimizing the Returns to Experimentation Programs**.\
 **T. Sudijono**, S. Ejdemyr, A. Lal, M. Tingley. \
-Submitted (2024). Accepted at ACM EC 2025, CODE@MIT 2024. \
+Submitted (2024). Accepted at ACM EC 2025. \
 [ [ArXiv](https://arxiv.org/abs/2412.05508) | [Software](https://github.com/tsudijon/OptimizeExperimentPrograms) ]
 
 **Neural Networks Generalize on Low Complexity Data**.\
@@ -36,7 +36,7 @@ Accepted, Annals of Statistics (2025). \
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
  L. Lei.\*, **T. Sudijono\***,  \
-Submitted (2024). Accepted at CODE@MIT 2023, ACIC 2024, CalMetrics 2024. \
+Submitted (2024).  \
 [ [ArXiv](https://arxiv.org/abs/2401.07152) | [Software](https://github.com/tsudijon/LeaveTwoOutSCI) ]
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
