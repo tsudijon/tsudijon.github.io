@@ -15,6 +15,6 @@ I am a 5th Year Ph.D student in Statistics at Stanford. I'm advised by [Sourav C
 
 Previously, I worked in quantitative finance. Before that, I studied Applied Mathematics at Brown University, where I had the pleasure of working with [Kavita Ramanan](https://www.brown.edu/academics/applied-mathematics/faculty/kavita-ramanan/home) and [Lorin Crawford](https://www.lorincrawford.com/). I can be contacted at tsudijon at stanford.edu.
 
-*I'm currently looking for postdoc positions in the 2026-2027 academic year.*
+*I'm currently looking for postdoc positions for the 2026-2027 academic year.*
 
 ![stanford](/images/stanford.jpeg)
