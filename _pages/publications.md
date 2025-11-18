@@ -29,12 +29,12 @@ Submitted (2025). \
 
 **Optimizing the Returns to Experimentation Programs**.\
 **T. Sudijono**, S. Ejdemyr, A. Lal, M. Tingley. \
-Submitted (2024). Accepted at ACM EC 2025. \
+Submitted (2024). Extended Abstract at *ACM EC 2025*. \
 [ [ArXiv](https://arxiv.org/abs/2412.05508) | [Software](https://github.com/tsudijon/OptimizeExperimentPrograms) ]
 
 **Neural Networks Generalize on Low Complexity Data**.\
 S. Chatterjee\*, **T. Sudijono\***. \
-[Accepted](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), Annals of Statistics (2025). \
+[Accepted](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), *Annals of Statistics* (2025). \
 [ [ArXiv](https://arxiv.org/abs/2409.12446) ]
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
@@ -44,17 +44,17 @@ Submitted (2024).  \
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
 **T. Sudijono**. \
-Random Structures & Algorithms (2025). \
+*Random Structures & Algorithms* (2025). \
 [ [Journal](https://onlinelibrary.wiley.com/doi/10.1002/rsa.70004) | [ArXiv](https://arxiv.org/abs/2304.07160) ]
 
 **A Topological Data Analytic Approach for Discovering Biophysical Signatures in Protein Dynamics**.\
 W. S. Tang\*, G. M. da Silva\*, H. Kirveslahti, E. Skeens, B. Feng, **T. Sudijono**, K. Yang, S. Mukherjee, B. Rubinstein, L. Crawford. \
-PLOS Computational Biology (2022). \
+*PLOS Computational Biology* (2022). \
 [ [Journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010045) | [BioArXiv](https://www.biorxiv.org/content/10.1101/2021.07.28.454240v1) ]
 
 **A statistical pipeline for identifying physical features that differentiate classes of 3D shapes**. \
 B. Wang\*, **T. Sudijono**\*, H. Kirveslahti\*, T. Gao, D. M. Boyer, S. Mukherjee, and L. Crawford. \
- Annals of Applied Statistics (2021). \
+*Annals of Applied Statistics* (2021). \
 [ [Journal](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/A-statistical-pipeline-for-identifying-physical-features-that-differentiate-classes/10.1214/20-AOAS1430.full?tab=ArticleLink) | [BioArXiv](https://www.biorxiv.org/content/10.1101/701391v2) | [Software](https://github.com/lcrawlab/SINATRA) ]
 
 \* denotes equal contribution or alphabetical order.
