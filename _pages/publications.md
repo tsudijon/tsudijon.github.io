@@ -11,13 +11,16 @@ Currently, I work on problems in neural network theory, causal inference, and em
 
 ---
 
-**Compound Selection Decisions: An Almost SURE Approach**.\
-with Lihua Lei, Kevin Chen, Liyang Sun, Tian Xie. \
-Work in progress (2025+).
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
 **T. Sudijono**, L. Lei, L. Masoero, S. Vijaykumar, G. Imbens, J. McQueen. \
-Work in progress (2025+).
+Work in progress (2025+). 
+
+
+**Compound Selection Decisions: An Almost SURE Approach**.\
+with Lihua Lei, Kevin Chen, Liyang Sun, Tian Xie. \
+To be Submitted (2025). \
+[ [ArXiv](https://arxiv.org/abs/2511.11862) | [Software](https://github.com/tsudijon/CompoundWelfareMaximization) ]
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
 S. Chatterjee\*, **T. Sudijono\***. \
