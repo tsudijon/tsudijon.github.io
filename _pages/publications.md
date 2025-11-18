@@ -34,7 +34,7 @@ Submitted (2024). Accepted at ACM EC 2025. \
 
 **Neural Networks Generalize on Low Complexity Data**.\
 S. Chatterjee\*, **T. Sudijono\***. \
-Accepted, Annals of Statistics (2025). \
+[Accepted](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), Annals of Statistics (2025). \
 [ [ArXiv](https://arxiv.org/abs/2409.12446) ]
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
