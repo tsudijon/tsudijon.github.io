@@ -18,7 +18,7 @@ Work in progress (2025+).
 
 
 **Compound Selection Decisions: An Almost SURE Approach**.\
-Lihua Lei\*, Kevin Chen\*, **Timothy Sudijono**, Liyang Sun\*, Tian Xie\*. \
+Lihua Lei\*, Kevin Chen\*, **Timothy Sudijono\***, Liyang Sun\*, Tian Xie\*. \
 To be Submitted (2025). \
 [ [ArXiv](https://arxiv.org/abs/2511.11862) | [Software](https://github.com/tsudijon/CompoundWelfareMaximization) ]
 
