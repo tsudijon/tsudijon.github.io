@@ -34,8 +34,8 @@ Submitted (2024). Extended Abstract at *ACM EC 2025*. \
 
 **Neural Networks Generalize on Low Complexity Data**.\
 S. Chatterjee\*, **T. Sudijono\***. \
-[Accepted](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), *Annals of Statistics* (2025). \
-[ [ArXiv](https://arxiv.org/abs/2409.12446) ]
+*Annals of Statistics* (2026). \
+[ [Journal](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-1/Neural-networks-generalize-on-low-complexity-data/10.1214/25-AOS2570.short) | [ArXiv](https://arxiv.org/abs/2409.12446) ]
 
 **Synthetic Control Inference via Refined Placebo Tests**.\
  L. Lei.\*, **T. Sudijono\***,  \
