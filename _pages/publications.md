@@ -14,7 +14,8 @@ Currently, I work on problems in neural network theory, causal inference, and em
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
 **T. Sudijono**, L. Lei, L. Masoero, S. Vijaykumar, G. Imbens, J. McQueen. \
-Work in progress (2025+). 
+To be Submitted (2026). \
+[ [ArXiv](https://arxiv.org/abs/2603.19480) | [Software](https://github.com/tsudijon/MRD_Covariate_Adjustment) ] 
 
 
 **Compound Selection Decisions: An Almost SURE Approach**.\
