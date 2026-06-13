@@ -17,10 +17,9 @@ Currently, I work on problems in neural network theory, causal inference, and em
 To be Submitted (2026). \
 [ [ArXiv](https://arxiv.org/abs/2603.19480) | [Software](https://github.com/tsudijon/MRD_Covariate_Adjustment) ] 
 
-
 **Compound Selection Decisions: An Almost SURE Approach**.\
 Jiafeng Chen\*, Lihua Lei\*, **Timothy Sudijono\***, Liyang Sun\*, Tian Xie\*. \
-To be Submitted (2025). \
+Submitted (2026). \
 [ [ArXiv](https://arxiv.org/abs/2511.11862) | [Software](https://github.com/tsudijon/CompoundWelfareMaximization) ]
 
 **Non-Identifiability distinguishes Neural Networks among Parametric Models**.\
