@@ -5,15 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+My research interests center around empirical Bayes, causal inference, and experimentation.
+
 ## Research
 
 ---
 
+### 2026
 
 **Regression Adjustments for Experimental Designs in Two-Sided Marketplaces**.\
 **T. Sudijono**, L. Lei, L. Masoero, S. Vijaykumar, G. Imbens, J. McQueen. \
 To be Submitted (2026). \
 [ [ArXiv](https://arxiv.org/abs/2603.19480) | [Software](https://github.com/tsudijon/MRD_Covariate_Adjustment) ] 
+
+### 2025
 
 **Compound Selection Decisions: An Almost SURE Approach**.\
 Jiafeng Chen\*, Lihua Lei\*, **Timothy Sudijono\***, Liyang Sun\*, Tian Xie\*. \
@@ -24,6 +29,8 @@ Submitted (2026). \
 S. Chatterjee\*, **T. Sudijono\***. \
 Submitted (2025). \
 [ [ArXiv](https://arxiv.org/abs/2504.18017) ]
+
+### 2024
 
 **Optimizing the Returns to Experimentation Programs**.\
 **T. Sudijono**, S. Ejdemyr, A. Lal, M. Tingley. \
@@ -39,11 +46,15 @@ S. Chatterjee\*, **T. Sudijono\***. \
  L. Lei.\*, **T. Sudijono\***,  \
 Submitted (2024).  \
 [ [ArXiv](https://arxiv.org/abs/2401.07152) | [Software](https://github.com/tsudijon/LeaveTwoOutSCI) ]
+ 
+ ### 2023
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
 **T. Sudijono**. \
 *Random Structures & Algorithms* (2025). \
 [ [Journal](https://onlinelibrary.wiley.com/doi/10.1002/rsa.70004) | [ArXiv](https://arxiv.org/abs/2304.07160) ]
+
+### Undergraduate Works
 
 **A Topological Data Analytic Approach for Discovering Biophysical Signatures in Protein Dynamics**.\
 W. S. Tang\*, G. M. da Silva\*, H. Kirveslahti, E. Skeens, B. Feng, **T. Sudijono**, K. Yang, S. Mukherjee, B. Rubinstein, L. Crawford. \
