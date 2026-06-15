@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Currently, I work on problems in neural network theory, causal inference, and empirical Bayes.
-
 ## Research
 
 ---
