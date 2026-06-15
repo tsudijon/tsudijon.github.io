@@ -47,7 +47,7 @@ S. Chatterjee\*, **T. Sudijono\***. \
 Submitted (2024).  \
 [ [ArXiv](https://arxiv.org/abs/2401.07152) | [Software](https://github.com/tsudijon/LeaveTwoOutSCI) ]
  
- ### 2023
+### 2023
 
 **Fluctuation Bounds in the Restricted Solid-on-Solid Model of Surface Growth**.\
 **T. Sudijono**. \
