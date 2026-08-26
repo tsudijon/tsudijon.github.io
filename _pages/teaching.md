@@ -12,6 +12,7 @@ author_profile: true
 
 ## As Teaching Assistant (Stanford)
 
+- STATS361: Causal Inference (Graduate), Spring 2026
 - Time Series Analysis, Fall 2021
 - Graduate Probability Theory I, Fall 2022
 - Graduate Probability Theory II, Winter 2023, Winter 2025
