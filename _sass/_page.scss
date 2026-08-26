@@ -148,13 +148,13 @@
 }
 
 .research-title {
-  color: $wharton-red;
+  color: $text-color;
   font-weight: 700;
 }
 
 .research-title a {
-  color: $wharton-red;
-  text-decoration: none;
+  color: $link-color;
+  text-decoration: underline;
 
   &:hover {
     color: $link-color-hover;
@@ -174,24 +174,25 @@
 
 .research-button,
 .research-abstract summary {
-  display: inline-block;
-  margin: 0 0.18em 0.3em 0;
-  padding: 0.14em 0.46em;
-  color: #fff !important;
-  font-family: $sans-serif;
-  font-size: $type-size-7;
-  font-weight: 700;
-  line-height: 1.25;
-  text-decoration: none !important;
-  border-radius: 3px;
+  display: inline;
+  margin: 0 0.45em 0 0;
+  padding: 0;
+  color: $link-color !important;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: normal;
+  line-height: inherit;
+  text-decoration: underline !important;
+  background: transparent;
   border: 0;
+  border-radius: 0;
 }
 
 .research-button:hover,
 .research-abstract summary:hover {
-  color: #fff !important;
-  filter: brightness(0.93);
-  text-decoration: none !important;
+  color: $link-color-hover !important;
+  filter: none;
+  text-decoration: underline !important;
 }
 
 .research-abstract {
@@ -204,7 +205,6 @@
 }
 
 .research-abstract summary {
-  background: #c79a3b;
   cursor: pointer;
   list-style: none;
 }
@@ -229,35 +229,15 @@
   border-radius: $border-radius;
 }
 
-.research-button--paper,
-.research-button--journal,
-.research-button--repository {
-  background: #174a7c;
-}
-
-.research-button--arxiv {
-  background: $wharton-blue;
-}
-
-.research-button--software {
-  background: #2f6fae;
-}
-
-.research-button--slides {
-  background: #7f8994;
-}
-
-.research-button--thesis {
-  background: #1f5f99;
-}
-
 .research-button--placeholder {
-  background: #8f969c;
+  color: $gray !important;
   cursor: default;
+  text-decoration: none !important;
 }
 
 .research-button--placeholder:hover {
-  filter: none;
+  color: $gray !important;
+  text-decoration: none !important;
 }
 
 .page__hero {
