@@ -15,6 +15,11 @@ My research interests center around empirical Bayes, causal inference, and exper
 
 ### 2026
 
+**A Linear Variance Bound for Ballistic Deposition**.\
+**T. Sudijono**. \
+Preprint (2026). \
+[ [ArXiv](https://arxiv.org/abs/2609.24056) ]
+
 **Sharp Minimax Theory for Randomized Experiments**.\
 **T. Sudijono**, E. Dobriban, E. Tchetgen Tchetgen. \
 To be Submitted (2026). \
